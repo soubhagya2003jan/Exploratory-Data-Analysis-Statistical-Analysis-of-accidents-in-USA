@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-of-Accidents-EDA-Statistical-Analysis
+# Exploratory Data Analysis & Statistical Analysis of accidents happened in us (2016 - 2023)
 
